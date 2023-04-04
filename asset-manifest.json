@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55c96ca1.css",
+    "main.js": "/static/js/main.c5b1c7a9.js",
+    "static/media/YelpCamp.png": "/static/media/YelpCamp.4ba1dc4f8e26622ca1a0.png",
+    "static/media/Spense.png": "/static/media/Spense.5c6339199db7cf4bc335.png",
+    "index.html": "/index.html",
+    "main.55c96ca1.css.map": "/static/css/main.55c96ca1.css.map",
+    "main.c5b1c7a9.js.map": "/static/js/main.c5b1c7a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c96ca1.css",
+    "static/js/main.c5b1c7a9.js"
+  ]
+}
