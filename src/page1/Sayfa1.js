@@ -1,5 +1,5 @@
 import React from "react";
-// import FiMenu from "react-icons/fi";
+import { FiMenu } from "react-icons/fi";
 import Walmart from "./assets/Walmart";
 import JP from "./assets/JP";
 import Visa from "./assets/Visa";
@@ -28,7 +28,9 @@ const Sayfa1 = () => {
             <button className="bg-yellow-300 w-36 h-12 text-black capitalize text-center hidden lg:block">
               get in touch
             </button>
-            <button className="text-white   lg:hidden ">osman</button>
+            <button className="text-white text-3xl   lg:hidden ">
+              <FiMenu />
+            </button>
           </section>
           <section className=" flex flex-col  justify-between max-w-3xl p-6 pt-8 mt-8">
             <h1 className="text-4xl md:text-5xl lg:text-6xl leading-9">
